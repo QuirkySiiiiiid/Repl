@@ -3,7 +3,7 @@ import os
 import time
 
 # Define the download directory
-DOWNLOAD_DIR = "./downloads"
+DOWNLOAD_DIR = "./down3"
 
 # Ensure the download directory exists
 if not os.path.exists(DOWNLOAD_DIR):
