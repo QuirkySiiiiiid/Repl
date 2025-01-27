@@ -36,5 +36,5 @@ def hook(d):
 
 # Main function
 if __name__ == "__main__":
-    playlist_url = input("Enter the playlist URL: ")
+    playlist_url = input("Enter the playlist URL:https://youtube.com/playlist?list=PL9Zg64loGCGBN9D-dev7aJIwmO19xgFpa&si=MOW8LgCOH2zo7lj9")
     download_video_from_playlist(playlist_url)
